@@ -1,17 +1,4 @@
-# qr_scanner_app
+# Application flutter - objectif
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter-app
+Le but de cette application est de permettre à l'utilisateur de générer un qr code grâce à du texte / un lien internet. Ce dernier peut être sauvegardé, et l'utilisateur peut voir tous ses qr code, avec le nombre d'utilisation de chacun. Chacun des QR code peut évidemment être supprimé.
+Le projet n'est actuellement pas encore terminé.
